@@ -1,5 +1,12 @@
 [![DOI](https://zenodo.org/badge/314818745.svg)](https://zenodo.org/badge/latestdoi/314818745)
 
+Trained Model:
+============================
+This repository contains the code for modeling and training a CNN for doing semantic segmentation on road lane lines.
+
+The final trained model can be [downloaded here](https://www.dropbox.com/sh/rrkp4d14pp7a9vi/AACdukg8uKUVsc3VD8QxIF-Ra?dl=0)
+
+
 Algorithms for Automated Driving
 ============================
 
